@@ -29,12 +29,12 @@ cd SocialNetwork
 
 **2. Build with qmake**
 ```bash
-qmake hw4.pro
+qmake network.pro
 make
 ```
 
 **Or open in Qt Creator:**
-- File → Open Project → select `hw4.pro`
+- File → Open Project → select `network.pro`
 - Click the Run button
 
 ---
@@ -51,7 +51,7 @@ SocialNetwork/
 ├── social_network.cpp        # Core network operations
 ├── socialnetworkwindow.cpp   # Qt main window
 ├── socialnetwork.ui          # Qt Designer UI layout
-└── hw4.pro                   # Qt project file
+└── network.pro                   # Qt project file
 ```
 
 ---
